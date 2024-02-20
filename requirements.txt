@@ -6,3 +6,4 @@ pillow
 tensorflow>=2.0.0
 matplotlib
 numpy
+streamlit==1.28.2

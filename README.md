@@ -15,15 +15,13 @@ numpy
 The PlantVillage dataset consists of high-quality images of various plant diseases, including annotated labels for different classes. More information about the dataset can be found on the [PlantVillage website](https://plantvillage.psu.edu/).
 
 
+## Deployment
 
-<br>
+The application is deployed and accessible online. You can interact with the Plant Disease Detection app by visiting the following link:
 
-$${\color{blue}Click \space \color{blue}the \space \color{blue}link \space \color{blue}below \space \color{yellowgreen}to \space \color{yellowgreen}launch \space \color{orangered}the \space \color{orangered}interactive \space \color{orangered}web \space \color{orangered}page:}$$ 
-<p align="center">
-  <a href="(https://detection-of-apple-leaf-diseases.streamlit.app/)">Apple leaf diseases</a>
-</p>  
+[https://detection-of-apple-leaf-diseases.streamlit.app/](https://detection-of-apple-leaf-diseases.streamlit.app/)
 
-<br>
+Feel free to upload plant images and experience real-time disease detection.
 
 
 
